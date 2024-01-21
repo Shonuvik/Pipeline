@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9CL6N0T5bXRssM5hK7DDAwp2zH4TXwZu5cDG+QcwMBJS3VQNqE0K7DPn/2rKtlKYx3Zf5RrNQPHv17hFPWG5Q==",
+  "success": true,
+  "projectFilePath": "/Users/marlonaraujo/Projects/PipelineApi/PipelineApi/PipelineApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/marlonaraujo/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/marlonaraujo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
